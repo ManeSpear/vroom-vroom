@@ -1,7 +1,7 @@
 vroom-vroom
 
 <div align="center">
-  <img width="510" height="510" alt="ManePear's Claw" src="https://github.com/user-attachments/assets/817143b7-39fd-4f03-8eff-923848a9b7ac" />
+  <img width="310" height="310" alt="ManePear's Claw" src="https://github.com/user-attachments/assets/817143b7-39fd-4f03-8eff-923848a9b7ac" />
 </div>
 
 <!--
